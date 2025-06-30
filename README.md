@@ -71,106 +71,132 @@
 
 ---
 
-## 🏆 Featured Projects
+## 💼 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
 ### 🔗 SkillLink - Home Services Platform
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chidwipak&repo=skilllink&theme=tokyonight)](https://github.com/chidwipak/skilllink)
 
-**A comprehensive full-stack web application connecting customers with service providers**
+**Enterprise-grade service marketplace platform**
 
-🎯 **Key Features:**
-- Multi-role dashboards (Customers, Workers, Sellers, Admins)
-- RESTful APIs with real-time order tracking
-- JWT authentication & Socket.IO notifications
-- Responsive Bootstrap design
+\`\`\`javascript
+const impact = {
+  efficiency: "40% reduction in booking time",
+  users: "Multi-role dashboard system",
+  realTime: "Socket.IO notifications",
+  auth: "JWT-based security"
+};
+\`\`\`
 
-⚡ **Impact:** 40% reduction in service booking time  
-🛠️ **Tech Stack:** Node.js, Express.js, MongoDB, JavaScript, Socket.IO, Bootstrap, Chart.js  
-🔗 **Repository:** [SkillLink](https://github.com/chidwipak/skilllink)
+**🛠️ Stack:** `Node.js` `Express.js` `MongoDB` `Socket.IO` `Bootstrap`
 
-<hr>
+</td>
+<td width="50%">
 
 ### 🏠 Housekeeping Management System
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="400">
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chidwipak&repo=housekeeping-management-system&theme=tokyonight)](https://github.com/chidwipak/housekeeping-management-system)
 
-**Efficient management system for housekeeping operations and staff coordination**
+**Comprehensive facility management solution**
 
-🎯 **Features:**
-- Staff scheduling and task assignment
-- Room status tracking and management
-- Inventory management system
-- Performance analytics dashboard
+\`\`\`javascript
+const features = {
+  scheduling: "Staff task assignment",
+  tracking: "Room status management",
+  inventory: "Resource optimization",
+  analytics: "Performance insights"
+};
+\`\`\`
 
-🛠️ **Tech Stack:** MERN Stack, RESTful APIs  
-🔗 **Repository:** [Housekeeping Management System](https://github.com/chidwipak/housekeeping-management-system)
+**🛠️ Stack:** `MERN Stack` `RESTful APIs` `Dashboard Analytics`
 
-<hr>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 📧 Newsletter Management System
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="400">
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chidwipak&repo=newsletter-management-system&theme=tokyonight)](https://github.com/chidwipak/newsletter-management-system)
 
-**Complete newsletter management platform with subscription and campaign features**
+**Scalable email campaign platform**
 
-🎯 **Features:**
-- Subscriber management and segmentation
-- Email campaign creation and scheduling
-- Analytics and performance tracking
-- Template management system
+\`\`\`javascript
+const capabilities = {
+  subscribers: "Advanced segmentation",
+  campaigns: "Automated scheduling",
+  analytics: "Performance tracking",
+  templates: "Dynamic content"
+};
+\`\`\`
 
-🛠️ **Tech Stack:** Node.js, Express.js, MongoDB, Email APIs  
-🔗 **Repository:** [Newsletter Management System](https://github.com/chidwipak/newsletter-management-system)
+**🛠️ Stack:** `Node.js` `Express.js` `MongoDB` `Email APIs`
 
-<hr>
+</td>
+<td width="50%">
 
 ### 🌐 Language Management System
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="400">
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chidwipak&repo=language-management-system&theme=tokyonight)](https://github.com/chidwipak/language-management-system)
 
-**Multi-language content management system with translation capabilities**
+**Multi-language content management platform**
 
-🎯 **Features:**
-- Multi-language content management
-- Translation workflow system
-- Language-specific user interfaces
-- Content localization tools
+\`\`\`javascript
+const localization = {
+  languages: "Multi-language support",
+  workflow: "Translation pipeline",
+  ui: "Localized interfaces",
+  content: "Dynamic localization"
+};
+\`\`\`
 
-🛠️ **Tech Stack:** MERN Stack, i18n Libraries  
-🔗 **Repository:** [Language Management System](https://github.com/chidwipak/language-management-system)
+**🛠️ Stack:** `MERN Stack` `i18n Libraries` `Content Management`
 
-<hr>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 📊 Programmer Survey System
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="400">
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chidwipak&repo=programmer-survey&theme=tokyonight)](https://github.com/chidwipak/programmer-survey)
 
-**Interactive survey platform for collecting programmer insights and feedback**
+**Interactive data collection platform**
 
-🎯 **Features:**
-- Dynamic survey creation and management
-- Real-time response collection
-- Data visualization and analytics
-- Export functionality for survey results
+\`\`\`javascript
+const surveyFeatures = {
+  dynamic: "Real-time survey builder",
+  collection: "Live response tracking",
+  visualization: "Chart.js integration",
+  export: "Data export functionality"
+};
+\`\`\`
 
-🛠️ **Tech Stack:** Node.js, Express.js, MongoDB, Chart.js  
-🔗 **Repository:** [Programmer Survey](https://github.com/chidwipak/programmer-survey)
+**🛠️ Stack:** `Node.js` `Express.js` `MongoDB` `Chart.js`
 
-<hr>
+</td>
+<td width="50%">
 
-### 👥 Student Profile Management System
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="400">
+### 👥 Student Profile Management
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chidwipak&repo=student-profile-management-system&theme=tokyonight)](https://github.com/chidwipak/student-profile-management-system)
 
-**Comprehensive student data management system for educational institutions**
+**Educational data management system**
 
-🎯 **Features:**
-- Student profile creation and management
-- Academic record tracking
-- Performance analytics
-- Administrative dashboard
+\`\`\`javascript
+const academicSystem = {
+  profiles: "Student data management",
+  records: "Academic tracking",
+  analytics: "Performance insights",
+  admin: "Administrative dashboard"
+};
+\`\`\`
 
-🛠️ **Tech Stack:** Node.js, Express.js, JavaScript, HTML, CSS, MongoDB  
-🔗 **Repository:** [Student Profile Management](https://github.com/chidwipak/student-profile-management-system)
+**🛠️ Stack:** `Node.js` `Express.js` `MongoDB` `Dashboard UI`
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -210,38 +236,38 @@
 
 ---
 
-## 📈 Project Portfolio Summary
+## 📈 Development Metrics
 
 <div align="center">
 
-### 🎯 Project Statistics
+### 🎯 Project Portfolio
 <img src="https://img.shields.io/badge/Total%20Projects-6+-brightgreen?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Full%20Stack%20Projects-6-blue?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/MERN%20Stack-Expert-orange?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Full%20Stack-Expert-blue?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/MERN%20Stack-Specialist-orange?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-### 🏆 Key Achievements
-- 🚀 **40% efficiency improvement** in service booking (SkillLink)
-- 🏠 **Complete management solutions** for various domains
-- 📊 **Data-driven applications** with analytics capabilities
-- 🌐 **Multi-language support** and internationalization
-- 📧 **Email automation** and campaign management
-- 👥 **User management systems** with role-based access
+### 💡 Technical Impact
+- 🚀 **40% efficiency improvement** in service booking systems
+- 🏗️ **Enterprise-grade** management solutions across multiple domains
+- 📊 **Data-driven applications** with real-time analytics
+- 🌐 **Scalable architectures** with modern web technologies
+- 🔐 **Security-first approach** with JWT authentication
+- ⚡ **Real-time features** using WebSocket technology
 
 </div>
 
 ---
 
-## 🎮 Fun Zone
+## 🎮 Beyond Code
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
   
-  ### 🏸 Beyond Coding
+  ### 🏸 Extracurricular Excellence
   
-  🏆 **Inter-college Badminton Competitions**  
-  🎭 **College Cultural Events Organizer**  
-  💻 **Regular Practice on Coding Platforms**  
-  🤖 **Personal Tech Projects Builder**
+  🏆 **Inter-college Badminton Competitions** - Discipline & Focus  
+  🎭 **Cultural Events Organizer** - Leadership & Planning  
+  💻 **Competitive Programming** - Problem-solving Skills  
+  🤖 **Tech Innovation Projects** - Continuous Learning
 </div>
 
 ---
@@ -252,7 +278,7 @@
   
   <img src="https://user-images.githubusercontent.com/74038190/216656993-abeca8b6-7b8b-470d-b57c-23f48b1ae79d.gif" width="400">
   
-  ### 📫 Reach out to me!
+  ### 📫 Get In Touch
   
   [![Email](https://img.shields.io/badge/Email-chidwipak%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chidwipak@gmail.com)
   [![Phone](https://img.shields.io/badge/Phone-%2B91%2063034%2027236-green?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916303427236)
@@ -264,7 +290,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20Thank%20you%20for%20visiting!%20⭐%20&fontAlign=30&fontSize=15&textBg=true&desc=Don't%20forget%20to%20star%20some%20repositories%20if%20you%20find%20them%20interesting!&descAlign=60&descAlignY=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20Thanks%20for%20visiting!%20⭐%20Star%20my%20repos%20if%20you%20find%20them%20interesting!%20&fontAlign=30&fontSize=15&textBg=true&desc=Always%20open%20to%20collaborate%20on%20innovative%20projects&descAlign=60&descAlignY=50"/>
 </div>
 
 <div align="center">
