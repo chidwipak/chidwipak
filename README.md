@@ -86,22 +86,89 @@
 - JWT authentication & Socket.IO notifications
 - Responsive Bootstrap design
 
-⚡ **Impact:** 40% reduction in service booking time
-
-🛠️ **Tech Stack:** Node.js, Express.js, MongoDB, JavaScript, Socket.IO, Bootstrap, Chart.js
+⚡ **Impact:** 40% reduction in service booking time  
+🛠️ **Tech Stack:** Node.js, Express.js, MongoDB, JavaScript, Socket.IO, Bootstrap, Chart.js  
+🔗 **Repository:** [SkillLink](https://github.com/chidwipak/skilllink)
 
 <hr>
 
-### 📊 Student Profile Management System
-**MERN stack application for internal data management and user feedback**
+### 🏠 Housekeeping Management System
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="400">
+
+**Efficient management system for housekeeping operations and staff coordination**
 
 🎯 **Features:**
-- Student data management system
-- Programmer survey functionality
-- RESTful API design
-- MongoDB integration
+- Staff scheduling and task assignment
+- Room status tracking and management
+- Inventory management system
+- Performance analytics dashboard
 
-🛠️ **Tech Stack:** Node.js, Express.js, JavaScript, HTML, CSS, MongoDB
+🛠️ **Tech Stack:** MERN Stack, RESTful APIs  
+🔗 **Repository:** [Housekeeping Management System](https://github.com/chidwipak/housekeeping-management-system)
+
+<hr>
+
+### 📧 Newsletter Management System
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="400">
+
+**Complete newsletter management platform with subscription and campaign features**
+
+🎯 **Features:**
+- Subscriber management and segmentation
+- Email campaign creation and scheduling
+- Analytics and performance tracking
+- Template management system
+
+🛠️ **Tech Stack:** Node.js, Express.js, MongoDB, Email APIs  
+🔗 **Repository:** [Newsletter Management System](https://github.com/chidwipak/newsletter-management-system)
+
+<hr>
+
+### 🌐 Language Management System
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="400">
+
+**Multi-language content management system with translation capabilities**
+
+🎯 **Features:**
+- Multi-language content management
+- Translation workflow system
+- Language-specific user interfaces
+- Content localization tools
+
+🛠️ **Tech Stack:** MERN Stack, i18n Libraries  
+🔗 **Repository:** [Language Management System](https://github.com/chidwipak/language-management-system)
+
+<hr>
+
+### 📊 Programmer Survey System
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="400">
+
+**Interactive survey platform for collecting programmer insights and feedback**
+
+🎯 **Features:**
+- Dynamic survey creation and management
+- Real-time response collection
+- Data visualization and analytics
+- Export functionality for survey results
+
+🛠️ **Tech Stack:** Node.js, Express.js, MongoDB, Chart.js  
+🔗 **Repository:** [Programmer Survey](https://github.com/chidwipak/programmer-survey)
+
+<hr>
+
+### 👥 Student Profile Management System
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="400">
+
+**Comprehensive student data management system for educational institutions**
+
+🎯 **Features:**
+- Student profile creation and management
+- Academic record tracking
+- Performance analytics
+- Administrative dashboard
+
+🛠️ **Tech Stack:** Node.js, Express.js, JavaScript, HTML, CSS, MongoDB  
+🔗 **Repository:** [Student Profile Management](https://github.com/chidwipak/student-profile-management-system)
 
 </div>
 
@@ -138,6 +205,27 @@
 <img src="https://img.shields.io/badge/CGPA-9.61%2F10.0-brightgreen?style=for-the-badge&logo=academic&logoColor=white"/>
 <img src="https://img.shields.io/badge/12th%20Grade-97.1%25-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/10th%20Grade-98.17%25-blue?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 📈 Project Portfolio Summary
+
+<div align="center">
+
+### 🎯 Project Statistics
+<img src="https://img.shields.io/badge/Total%20Projects-6+-brightgreen?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Full%20Stack%20Projects-6-blue?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/MERN%20Stack-Expert-orange?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+### 🏆 Key Achievements
+- 🚀 **40% efficiency improvement** in service booking (SkillLink)
+- 🏠 **Complete management solutions** for various domains
+- 📊 **Data-driven applications** with analytics capabilities
+- 🌐 **Multi-language support** and internationalization
+- 📧 **Email automation** and campaign management
+- 👥 **User management systems** with role-based access
 
 </div>
 
