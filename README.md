@@ -11,7 +11,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 🎓 **Computer Science Engineering Student** at **IIIT Sri City**  
-📊 **CGPA: 9.61/10.0** - Academic Excellence  
+📊 **CGPA: 9.61/10.0** 
 💻 **Full-Stack Developer** with expertise in **MERN Stack**  
 🤖 **AI & Data Science Enthusiast** with hands-on project experience  
 🚀 **Problem Solver** passionate about building real-world solutions  
