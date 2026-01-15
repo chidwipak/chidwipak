@@ -1,302 +1,190 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Chidwipak+Kuppani+%F0%9F%91%8B;Full-Stack+Developer+%7C+AI+Enthusiast;Building+the+Future+with+Code+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=3366CC&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Chidwipak+Kuppani+%F0%9F%91%8B;AI+Researcher+%26+Deep+Learning+Specialist;Building+Trustworthy+Medical+AI+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-🎓 **Computer Science Engineering Student** at **IIIT Sri City**  
-📊 **CGPA: 9.54/10.0** 
-💻 **Full-Stack Developer** with expertise in **MERN Stack**  
-🤖 **AI & Data Science Enthusiast** with hands-on project experience  
-🚀 **Problem Solver** passionate about building real-world solutions  
-
-✨ Currently exploring **Deep Learning**, **NLP**, and **Computer Vision**  
-🌱 Always learning new technologies and contributing to innovative projects  
-🎯 Seeking challenging opportunities to make a meaningful impact  
-
-<br clear="right"/>
-
 ---
-
-## 🛠️ Tech Stack & Skills
-
-### 💻 Programming Languages
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,matlab" />
-  <br>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
-</div>
-
-### 🌐 Web Technologies
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,mongodb,react" />
-  <br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</div>
-
-### 🔧 Tools & Libraries
-<div align="center">
-  <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
-</div>
-
-### 🤖 AI & Data Science
-<div align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-5C2D91?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Science-FF6F00?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</div>
-
----
-
-## 💼 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔗 SkillLink - Home Services Platform
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chidwipak&repo=skilllink&theme=tokyonight)](https://github.com/chidwipak/skilllink)
-
-**Enterprise-grade service marketplace platform**
-
-\`\`\`javascript
-const impact = {
-  efficiency: "40% reduction in booking time",
-  users: "Multi-role dashboard system",
-  realTime: "Socket.IO notifications",
-  auth: "JWT-based security"
-};
-\`\`\`
-
-**🛠️ Stack:** `Node.js` `Express.js` `MongoDB` `Socket.IO` `Bootstrap`
-
-</td>
-<td width="50%">
-
-### 🏠 Housekeeping Management System
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chidwipak&repo=housekeeping-management-system&theme=tokyonight)](https://github.com/chidwipak/housekeeping-management-system)
-
-**Comprehensive facility management solution**
-
-\`\`\`javascript
-const features = {
-  scheduling: "Staff task assignment",
-  tracking: "Room status management",
-  inventory: "Resource optimization",
-  analytics: "Performance insights"
-};
-\`\`\`
-
-**🛠️ Stack:** `MERN Stack` `RESTful APIs` `Dashboard Analytics`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📧 Newsletter Management System
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chidwipak&repo=newsletter-management-system&theme=tokyonight)](https://github.com/chidwipak/newsletter-management-system)
-
-**Scalable email campaign platform**
-
-\`\`\`javascript
-const capabilities = {
-  subscribers: "Advanced segmentation",
-  campaigns: "Automated scheduling",
-  analytics: "Performance tracking",
-  templates: "Dynamic content"
-};
-\`\`\`
-
-**🛠️ Stack:** `Node.js` `Express.js` `MongoDB` `Email APIs`
-
-</td>
-<td width="50%">
-
-### 🌐 Language Management System
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chidwipak&repo=language-management-system&theme=tokyonight)](https://github.com/chidwipak/language-management-system)
-
-**Multi-language content management platform**
-
-\`\`\`javascript
-const localization = {
-  languages: "Multi-language support",
-  workflow: "Translation pipeline",
-  ui: "Localized interfaces",
-  content: "Dynamic localization"
-};
-\`\`\`
-
-**🛠️ Stack:** `MERN Stack` `i18n Libraries` `Content Management`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📊 Programmer Survey System
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chidwipak&repo=programmer-survey&theme=tokyonight)](https://github.com/chidwipak/programmer-survey)
-
-**Interactive data collection platform**
-
-\`\`\`javascript
-const surveyFeatures = {
-  dynamic: "Real-time survey builder",
-  collection: "Live response tracking",
-  visualization: "Chart.js integration",
-  export: "Data export functionality"
-};
-\`\`\`
-
-**🛠️ Stack:** `Node.js` `Express.js` `MongoDB` `Chart.js`
-
-</td>
-<td width="50%">
-
-### 👥 Student Profile Management
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chidwipak&repo=student-profile-management-system&theme=tokyonight)](https://github.com/chidwipak/student-profile-management-system)
-
-**Educational data management system**
-
-\`\`\`javascript
-const academicSystem = {
-  profiles: "Student data management",
-  records: "Academic tracking",
-  analytics: "Performance insights",
-  admin: "Administrative dashboard"
-};
-\`\`\`
-
-**🛠️ Stack:** `Node.js` `Express.js` `MongoDB` `Dashboard UI`
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chidwipak&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chidwipak&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chidwipak&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chidwipak&theme=tokyo-night"/>
-</div>
-
----
-
-## 🏅 Certifications & Achievements
-
-<div align="center">
-
-| 🎓 Certification | 🏢 Organization | 🗓️ Status |
-|:---|:---|:---:|
-| AI, ML, Deep Learning, NLP, Computer Vision, Data Science | Infosys Springboard | ✅ Certified |
-| Generative AI | Infosys Springboard | ✅ Certified |
-| Additional CSE Courses | IIIT Sri City | ✅ Certified |
-
-### 🎯 Academic Excellence
-<img src="https://img.shields.io/badge/CGPA-9.61%2F10.0-brightgreen?style=for-the-badge&logo=academic&logoColor=white"/>
-<img src="https://img.shields.io/badge/12th%20Grade-97.1%25-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/10th%20Grade-98.17%25-blue?style=for-the-badge"/>
-
-</div>
-
----
-
-## 📈 Development Metrics
-
-<div align="center">
-
-### 🎯 Project Portfolio
-<img src="https://img.shields.io/badge/Total%20Projects-6+-brightgreen?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Full%20Stack-Expert-blue?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/MERN%20Stack-Specialist-orange?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-### 💡 Technical Impact
-- 🚀 **40% efficiency improvement** in service booking systems
-- 🏗️ **Enterprise-grade** management solutions across multiple domains
-- 📊 **Data-driven applications** with real-time analytics
-- 🌐 **Scalable architectures** with modern web technologies
-- 🔐 **Security-first approach** with JWT authentication
-- ⚡ **Real-time features** using WebSocket technology
-
-</div>
-
----
-
-## 🎮 Beyond Code
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
-  
-  ### 🏸 Extracurricular Excellence
-  
-  🏆 **Inter-college Badminton Competitions** - Discipline & Focus  
-  🎭 **Cultural Events Organizer** - Leadership & Planning  
-  💻 **Competitive Programming** - Problem-solving Skills  
-  🤖 **Tech Innovation Projects** - Continuous Learning
-</div>
-
----
-
-## 🤝 Let's Connect!
 
 <div align="center">
   
-  <img src="https://user-images.githubusercontent.com/74038190/216656993-abeca8b6-7b8b-470d-b57c-23f48b1ae79d.gif" width="400">
+  ### 🔬 AI Researcher | 🧠 Deep Learning Specialist | 🏥 Medical AI
   
-  ### 📫 Get In Touch
+  **B.Tech CSE (Honors in AI/ML) @ IIIT Sri City | CGPA: 9.54/10.0**
   
   [![Email](https://img.shields.io/badge/Email-chidwipak%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chidwipak@gmail.com)
-  [![Phone](https://img.shields.io/badge/Phone-%2B91%2063034%2027236-green?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916303427236)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chidwipak-kuppani)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=web&logoColor=white)](https://your-portfolio-link.com)
-  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chidwipak-kuppani-a6406928a)
+  [![CV](https://img.shields.io/badge/Research_CV-View-purple?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/drive/folders/1rHLYGfxBvbA2qCjaoGVBeiThCvW1rsBI?usp=share_link)
+
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20Thanks%20for%20visiting!%20⭐%20Star%20my%20repos%20if%20you%20find%20them%20interesting!%20&fontAlign=30&fontSize=15&textBg=true&desc=Always%20open%20to%20collaborate%20on%20innovative%20projects&descAlign=60&descAlignY=50"/>
-</div>
+## 🚀 Research Interests
+
+My research focuses on **Trustworthy AI** and **Vision-Language Models** for high-stakes domains like healthcare. I am particularly interested in:
+
+*   **Medical VQA & Reasoning:** Investigating failure modes in multi-image reasoning.
+*   **Diffusion Models:** Applying stochastic processes for medical image reconstruction.
+*   **Efficient LLMs:** Domain adaptation and distributed training optimization.
+*   **Explainable AI:** Ensuring faithfulness in model reasoning.
+
+---
+
+## 💼 Featured Research & AI Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">👁️ OcularAI</h3>
+      <div align="center">
+        <a href="https://github.com/chidwipak/OcularAI">
+          <img src="https://img.shields.io/badge/PyTorch_Lightning-Vision_Transformers-blueviolet?style=for-the-badge" />
+        </a>
+      </div>
+      <p align="center">
+        <strong>Multi-Label Retinal Disease Classification</strong><br>
+        Benchmarked Swin, DeiT, ViT vs ResNet-50 on ODIR-5K dataset. Achieved <strong>81.1% F1 Macro</strong> using Swin Transformer. Features attention map visualization for interpretability.
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🩻 Xray-Denoising-using-DDPM</h3>
+      <div align="center">
+        <a href="https://github.com/chidwipak/Xray-Denoising-using-DDPM">
+          <img src="https://img.shields.io/badge/PyTorch-Diffusion_Models-orange?style=for-the-badge" />
+        </a>
+      </div>
+      <p align="center">
+        <strong>Medical Image Enhancement</strong><br>
+        Implemented Denoising Diffusion Probabilistic Models (DDPM) from scratch. Uses stochastic forward diffusion and learned reverse denoising to restore diagnostic quality to chest X-rays.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">☕ CafeMind</h3>
+      <div align="center">
+        <a href="https://github.com/chidwipak/CafeMind">
+          <img src="https://img.shields.io/badge/LangChain-Multi_Agent_RAG-green?style=for-the-badge" />
+        </a>
+      </div>
+      <p align="center">
+        <strong>Advanced AI Assistant Architecture</strong><br>
+        5-agent system orchestration using Google Gemini, Pinecone, and FastAPI. Features intent routing, RAG-based query answering, and ML-driven product recommendations.
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🚢 MaritimeLM</h3>
+      <div align="center">
+        <a href="https://github.com/chidwipak/MaritimeLM-Ship-Equipment-Assistant">
+          <img src="https://img.shields.io/badge/LLM-LoRA_Fine_Tuning-yellow?style=for-the-badge" />
+        </a>
+      </div>
+      <p align="center">
+        <strong>Domain-Adapted Language Model</strong><br>
+        Fine-tuned Mistral-7B using Low-Rank Adaptation (LoRA) for ship equipment intelligence. Specialized for technical Q&A in maritime engineering contexts.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔍 AI TraceFinder</h3>
+      <div align="center">
+        <a href="https://huggingface.co/spaces/chidwipak/infaiproject">
+          <img src="https://img.shields.io/badge/Forensics-Scanner_Identification-red?style=for-the-badge" />
+        </a>
+      </div>
+      <p align="center">
+        <strong>Forensic Document Analysis System</strong><br>
+        Constructed a scanner identification system using 153 PRNU and frequency features (93.75% accuracy). Built during Infosys Springboard internship.
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌐 WebInsight-AI</h3>
+      <div align="center">
+        <a href="https://github.com/chidwipak/WebInsight-AI">
+          <img src="https://img.shields.io/badge/RAG-Gemini_&_FAISS-informational?style=for-the-badge" />
+        </a>
+      </div>
+      <p align="center">
+        <strong>Universal Web Content Chatbot</strong><br>
+        RAG-powered tool enabling intelligent Q&A with any website content. enhanced information retrieval.
+      </p>
+    </td>
+  </tr>
+</table>
+
+### 🧠 Other AI/ML Projects
+
+*   **[ED-ITROS](https://github.com/chidwipak/ED-ITROS):** AI-Powered Healthcare Optimization using Stochastic Modeling + ML + DL + RL.
+*   **[ImprovedGWnet](https://github.com/chidwipak/ImprovedGWnet):** Enhanced Graph WaveNet implementation for spatiotemporal data modeling.
+*   **[CVD-ML-Classifier-Benchmark](https://github.com/chidwipak/CVD-ML-Classifier-Benchmark):** Comprehensive study of 25 ML models for cardiovascular prediction.
+*   **[Tenglish-CodeMix-Predictor](https://github.com/chidwipak/Tenglish-CodeMix-Predictor):** NLP model for Telugu-English code-mixed data analysis.
+
+---
+
+## 🛠️ Technical Arsenal
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=chidwipak&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
+
+### Deep Learning & AI
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=for-the-badge&logo=pytorch-lightning&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+### core
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+### Tools & Platforms
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/WandB-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black"/>
+
 </div>
 
+---
+
+## 📜 Publications & Research
+
+*   **[In Preparation]** "Systematic Failure Analysis of Multi-Image Medical VQA: Understanding Vision-Language Model Reasoning Limitations" (2026)
+*   **[Research]** "Distributed Training Optimization for Resource-Constrained Environments" (Ongoing)
+*   **[Research]** "Cross-Image Evidence Attribution in Vision-Language Models" (Ongoing)
+
+---
+
+## 🏅 Certifications
+
+I have completed **35+ Professional Certifications** across AI, Data Science, and Software Engineering.
+
+[![View All Certifications](https://img.shields.io/badge/View_Full_Portfolio_on_Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1rHLYGfxBvbA2qCjaoGVBeiThCvW1rsBI?usp=share_link)
+
+---
+
+<details>
+<summary>⚡ <strong>Web Development Archive (Early Projects)</strong></summary>
+<br>
+
+Before focusing on AI Research, I built several full-stack applications to master software engineering principles.
+
+*   **[SkillLink](https://github.com/chidwipak/skilllink):** Enterprise-grade home services marketplace (Node.js, Socket.IO).
+*   **[Housekeeping Management](https://github.com/chidwipak/housekeeping-management-system):** Facility management dashboard (MERN Stack).
+*   **[Newsletter System](https://github.com/chidwipak/newsletter-management-system):** Email campaign platform.
+*   **[Language Management](https://github.com/chidwipak/language-management-system):** I18n content system.
+*   **[Programmer Survey](https://github.com/chidwipak/programmer-survey):** Data collection and visualization tool.
+
+</details>
+
+---
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Let's%20Collaborate%20on%20Trustworthy%20AI&fontAlign=50&fontSize=20&textBg=true&desc=Reach%20out%20via%20email%20or%20LinkedIn&descAlign=50&descAlignY=60"/>
 </div>
