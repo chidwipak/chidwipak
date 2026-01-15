@@ -12,7 +12,7 @@
   
   ### 🔬 AI Researcher | 🧠 Deep Learning Specialist | 🏥 Medical AI
   
-  **B.Tech CSE (Honors in AI/ML) @ IIIT Sri City | CGPA: 9.54/10.0**
+  **B.Tech in CSE with Honors and AI/ML Specialization @ IIIT Sri City | CGPA: 9.54/10.0**
   
   [![Email](https://img.shields.io/badge/Email-chidwipak%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chidwipak@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chidwipak-kuppani-a6406928a)
@@ -119,10 +119,21 @@ My research focuses on **Trustworthy AI** and **Vision-Language Models** for hig
 
 ## 🏢 Professional Experience
 
-### 🔎 AI TraceFinder (Infosys Springboard Internship)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chidwipak&repo=AI_TraceFinder-&theme=tokyonight)](https://huggingface.co/spaces/chidwipak/infaiproject)
+<h3 align="center">🔎 AI TraceFinder (Infosys Springboard Internship)</h3>
+
+<div align="center">
+  <a href="https://github.com/chidwipak/AI_TraceFinder-">
+    <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://huggingface.co/spaces/chidwipak/infaiproject">
+    <img src="https://img.shields.io/badge/Hugging_Face-Live_Demo-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  </a>
+</div>
 <br>
+<p align="center">
 **Forensic Document Analysis System:** Built a scanner identification system using 153 PRNU and frequency features (**93.75% accuracy**) and tampered-document detection (**89.86% accuracy**). Deployed on Hugging Face Spaces.
+</p>
 
 ---
 
@@ -246,11 +257,68 @@ I have completed **35+ Professional Certifications** including **Oracle Cloud Ge
 <summary>⚡ <strong>Web Development Archive (Early Projects)</strong></summary>
 <br>
 
-*   **[Housekeeping Management](https://github.com/chidwipak/housekeeping-management-system):** Facility management dashboard (MERN Stack, MySQL).
-*   **[Newsletter System](https://github.com/chidwipak/newsletter-management-system):** Scalable email campaign platform.
-*   **[Language Management](https://github.com/chidwipak/language-management-system):** Database management for world languages.
-*   **[Programmer Survey](https://github.com/chidwipak/programmer-survey):** Interactive data collection platform.
-*   **[Student Profile Management](https://github.com/chidwipak/student-profile-management-system):** Academic record system.
+<table>
+  <tr>
+    <td width="50%">
+      <h4 align="center">🏠 Housekeeping Management</h4>
+      <div align="center">
+         <a href="https://github.com/chidwipak/housekeeping-management-system"><strong>Repository</strong></a>
+      </div>
+      <p align="center">
+        Facility management dashboard built with MERN Stack and MySQL.
+      </p>
+    </td>
+    <td width="50%">
+      <h4 align="center">📧 Newsletter System</h4>
+      <div align="center">
+         <a href="https://github.com/chidwipak/newsletter-management-system"><strong>Repository</strong></a>
+      </div>
+      <p align="center">
+        Scalable email campaign platform for digital newsletters.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4 align="center">🌐 Language Management</h4>
+      <div align="center">
+         <a href="https://github.com/chidwipak/language-management-system"><strong>Repository</strong></a>
+      </div>
+      <p align="center">
+        Database management application for world languages registry.
+      </p>
+    </td>
+    <td width="50%">
+      <h4 align="center">📊 Programmer Survey</h4>
+      <div align="center">
+         <a href="https://github.com/chidwipak/programmer-survey"><strong>Repository</strong></a>
+      </div>
+      <p align="center">
+        Interactive data collection platform for developer surveys.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4 align="center">👥 Student Profile Management</h4>
+      <div align="center">
+         <a href="https://github.com/chidwipak/student-profile-management-system"><strong>Repository</strong></a>
+      </div>
+      <p align="center">
+        Simple full stack academic record management system.
+      </p>
+    </td>
+    <td width="50%">
+      <h4 align="center">🏫 Adobe Rounds</h4>
+      <div align="center">
+         <a href="#"><strong>Competitive Coding</strong></a>
+      </div>
+      <p align="center">
+         Solutions for Adobe coding rounds (Round 1a/1b).
+      </p>
+    </td>
+  </tr>
+</table>
 
 </details>
 
