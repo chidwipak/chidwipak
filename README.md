@@ -274,9 +274,7 @@ I have completed **35+ Professional Certifications** including **Oracle Cloud Ge
 
 ---
 
-<details>
-<summary>⚡ <strong>Web Development Archive (Early Projects)</strong></summary>
-<br>
+## ⚡ Web Development Archive (Early Projects)
 
 <table>
   <tr>
@@ -340,8 +338,6 @@ I have completed **35+ Professional Certifications** including **Oracle Cloud Ge
     </td>
   </tr>
 </table>
-
-</details>
 
 <br>
 
