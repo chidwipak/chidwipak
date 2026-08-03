@@ -5,7 +5,7 @@
 # Hi there, I'm Chidwipak Kuppani 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Final-Year+CS+Honors+(AI%2FML)+%40+IIIT+Sri+City;Distributed+Systems+%26+Scalable+AI+Infrastructure;MICCAI+2026+Travel+Award+Winner+%F0%9F%8F%86;GSoC+2026+Contributor+%40+DeepChem;Contributor+%40+Project+HAMi+(K8s+GPU+Sharing)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Final-Year+CS+Honors+(AI%2FML)+%40+IIIT+Sri+City;Distributed+Systems+%26+Scalable+AI+Infrastructure;Awarded+MICCAI+2026+Travel+Grant+%F0%9F%8F%86;GSoC+2026+Contributor+%40+DeepChem;Contributor+%40+Project+HAMi+(K8s+GPU+Sharing)" alt="Typing SVG" />
 </a>
 
 <br /><br />
