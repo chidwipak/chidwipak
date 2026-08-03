@@ -1,20 +1,14 @@
 <div align="center">
 
-```
-  ____ _     _     ___            _ pak 
- / ___| |__ (_) __| \ \      / /_ _| | __
-| |   | '_ \| |/ _` |\ \ /\ / / _` | |/ /
-| |___| | | | | (_| | \ V  V / (_| |   < 
- \____|_| |_|_|\__,_|  \_/\_/ \__,_|_|\_\
-```
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="480" alt="Developer Coding GIF Animation" />
 
-# Chidwipak Kuppani 👋
+# Hi there, I'm Chidwipak Kuppani 👋
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Final-Year+CS+Honors+(AI%2FML)+%40+IIIT+Sri+City;Distributed+Systems+%26+Scalable+AI+Infrastructure;MICCAI+2026+Travel+Award+Winner+%F0%9F%8F%86;GSoC+2026+Contributor+%40+DeepChem;Contributor+%40+Project+HAMi+(K8s+GPU+Sharing)" alt="Typing SVG" />
 </a>
 
-<br />
+<br /><br />
 
 <p align="center">
   <a href="mailto:chidwipak@gmail.com"><img src="https://img.shields.io/badge/Email-chidwipak%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
