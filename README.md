@@ -1,13 +1,28 @@
 <div align="center">
 
-# Chidwipak Kuppani
+```
+  ____ _     _     ___            _ pak 
+ / ___| |__ (_) __| \ \      / /_ _| | __
+| |   | '_ \| |/ _` |\ \ /\ / / _` | |/ /
+| |___| | | | | (_| | \ V  V / (_| |   < 
+ \____|_| |_|_|\__,_|  \_/\_/ \__,_|_|\_\
+```
 
-**Final-Year B.Tech Computer Science (Honors in AI/ML) @ IIIT Sri City**  
-*Building distributed ML systems, high-performance AI infrastructure, and scientific computing applications.*
+# Chidwipak Kuppani 👋
 
-[Email](mailto:chidwipak@gmail.com) • [LinkedIn](https://www.linkedin.com/in/chidwipak-kuppani-a6406928a) • [GitHub](https://github.com/chidwipak) • [Certifications](https://drive.google.com/drive/folders/1rHLYGfxBvbA2qCjaoGVBeiThCvW1rsBI?usp=share_link) • [HuggingFace Demo](https://huggingface.co/spaces/chidwipak/infaiproject)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Final-Year+CS+Honors+(AI%2FML)+%40+IIIT+Sri+City;Distributed+Systems+%26+Scalable+AI+Infrastructure;MICCAI+2026+Travel+Award+Winner+%F0%9F%8F%86;GSoC+2026+Contributor+%40+DeepChem;Contributor+%40+Project+HAMi+(K8s+GPU+Sharing)" alt="Typing SVG" />
+</a>
 
----
+<br />
+
+<p align="center">
+  <a href="mailto:chidwipak@gmail.com"><img src="https://img.shields.io/badge/Email-chidwipak%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/chidwipak-kuppani-a6406928a"><img src="https://img.shields.io/badge/LinkedIn-Chidwipak_Kuppani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/chidwipak"><img src="https://img.shields.io/badge/GitHub-chidwipak-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://drive.google.com/drive/folders/1rHLYGfxBvbA2qCjaoGVBeiThCvW1rsBI?usp=share_link"><img src="https://img.shields.io/badge/Certifications-Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+  <a href="https://huggingface.co/spaces/chidwipak/infaiproject"><img src="https://img.shields.io/badge/HuggingFace-Demo-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/CGPA-9.48%2F10.0-blue?style=for-the-badge&logo=academic" />
@@ -22,63 +37,78 @@
 
 ## About Me
 
-I am a Computer Science undergraduate at IIIT Sri City specializing in Artificial Intelligence and Machine Learning. My research focuses on distributed learning, network control systems, multimodal vision-language models, and generative models for scientific applications. 
+I am a Computer Science undergraduate at IIIT Sri City specializing in Artificial Intelligence and Machine Learning. My work spans distributed machine learning systems, AI infrastructure, control over lossy networks, and generative models for scientific computing. 
 
-I am the first author of a paper accepted at **MICCAI 2026** (supported by a **MICCAI Travel Award**) and have several manuscripts currently under review at IEEE TIT, IEEE TAC, IEEE TGRS, and JPDC. As a **Google Summer of Code 2026** contributor with **DeepChem**, I integrated generative protein design architectures into the core library, and I actively contribute to **Project HAMi** for Kubernetes GPU virtualization.
+I am the first author of research accepted at **MICCAI 2026** (supported by a **MICCAI Travel Award**) and maintain several private research codebases currently under peer review. As a **Google Summer of Code 2026** contributor with **DeepChem**, I integrated generative protein design architectures into the core library, and I actively contribute to **Project HAMi** for Kubernetes GPU resource virtualization.
 
 ---
 
 ## 🏛️ Open Source Contributions
 
-| Project | Organization / Ecosystem | Key Contributions |
+| Project | Organization / Ecosystem | Description & Contributions |
 | :--- | :--- | :--- |
 | **[DeepChem](https://github.com/deepchem/deepchem)** | Google Summer of Code 2026 | Implemented **RFDiffusion** and **RFDiffusion All-Atom** generative protein design models into DeepChem's suite. |
-| **[Project HAMi](https://github.com/Project-HAMi/HAMi)** | Cloud Native Computing Foundation / K8s | Contributed to heterogeneous GPU resource sharing and virtualization for Kubernetes clusters. |
-| **[HAMi-core](https://github.com/Project-HAMi/HAMi-core)** | Project HAMi Ecosystem | In-container GPU resource control and transparent device virtualization. |
+| **[Project HAMi](https://github.com/Project-HAMi/HAMi)** | Cloud Native Computing Foundation / K8s | Contributed to heterogeneous GPU resource sharing and device virtualization for Kubernetes clusters. |
+| **[HAMi-core](https://github.com/Project-HAMi/HAMi-core)** | Project HAMi Ecosystem | In-container GPU resource control and transparent hardware virtualization engine. |
 
 ---
 
 ## 🔬 Research & Publications
 
-### Accepted Papers
+### Accepted Publications
 
 * **Right Answer, Wrong Evidence: Revealing Visual Confabulation in Multi-Image Medical VLMs**  
   *28th International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI 2026**), Strasbourg, France*  
   🏆 **Recipient of the MICCAI 2026 Travel Award**  
-  * Introduced the **Evidence Attribution Score (EAS)** to evaluate whether multi-image medical vision-language models rely on true visual grounding rather than confabulating correct answers.  
-  * Evaluated 8 medical VLMs across multi-image diagnostic benchmarks.  
+  * Introduced the **Evidence Attribution Score (EAS)** to quantify whether multi-image medical vision-language models rely on genuine visual evidence vs. visual confabulation.  
   * Codebase: [`eas-medical-vlm`](https://github.com/chidwipak/eas-medical-vlm)
 
 ---
 
-### Manuscripts Under Review
+### Private & Ongoing Research Repositories
 
-* **The Exact Error Exponent of Rate-Constrained Decentralized Detection over Time-Varying Networks**  
-  *Under Review at IEEE Transactions on Information Theory (**IEEE TIT**)*  
-  * Derived matching converse and achievability bounds for hypothesis testing against independence under graph min-cut constraints.  
-  * Repository: 🔒 [`rate-constrained-decentralized-detection`](https://github.com/chidwipak/rate-constrained-decentralized-detection) *(Private during review)*
+The following research repositories contain active codebases for manuscripts currently undergoing double-blind peer review at premier IEEE journals and conferences. They are maintained privately and will be made public upon acceptance:
 
-* **Restoration and Reliability: The Exact Moment Threshold for Controlling Expansive Systems over Erasure Channels**  
-  *Under Review at IEEE Transactions on Automatic Control (**IEEE TAC**)*  
-  * Derived the exact moment-stability threshold $\gamma(m) < 1$ for nonlinear expansive maps over erasure channels using a Universal Zooming Quantizer.  
-  * Repository: 🔒 [`restoration-anytime-limit-lossy-channels`](https://github.com/chidwipak/restoration-anytime-limit-lossy-channels) *(Private during review)*
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">⚡ Distributed ML & PEFT Infrastructure</h3>
+      <p>Multi-node GPU parallel training framework and communication bounds for parameter-efficient fine-tuning (LoRA, QLoRA).</p>
+      <p align="center"><b>🔒 Private Research Repository</b></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📡 Decentralized Network Information Theory</h3>
+      <p>Information-theoretic bounds, error exponents, and min-cut graph routing algorithms for decentralized detection.</p>
+      <p align="center"><b>🔒 Private Research Repository</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔄 Control Systems over Erasure Channels</h3>
+      <p>Controlled set-invariance, anytime restoration algorithms, and Universal Zooming Quantizer simulators for expansive dynamical maps.</p>
+      <p align="center"><b>🔒 Private Research Repository</b></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌙 Physics-Guided Vision Mamba (Remote Sensing)</h3>
+      <p>Hyperspectral super-resolution architectures with physical mineral constraints for lunar remote sensing imagery.</p>
+      <p align="center"><b>🔒 Private Research Repository</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🐍 Mamba-Based Network Intelligence</h3>
+      <p>Unified state-space model for joint routing, traffic engineering, and congestion control validated via large-scale ns-3 simulations.</p>
+      <p align="center"><b>🔒 Private Research Repository</b></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🧬 Molecular Binding Affinity & Scalable GNNs</h3>
+      <p>Distributed PyTorch FSDP pipelines and graph neural network models for molecular docking and drug discovery (IIT Madras Research).</p>
+      <p align="center"><b>🔒 Private Research Repository</b></p>
+    </td>
+  </tr>
+</table>
 
-* **PhyMamba: Physics-Guided Vision Mamba for Lunar Hyperspectral Super-Resolution**  
-  *Under Review at IEEE Transactions on Geoscience and Remote Sensing (**IEEE TGRS**)*  
-  * Developed a physics-guided Vision Mamba model with ADMM unrolling for lunar hyperspectral image super-resolution on Chandrayaan-2 datasets.  
-  * Repository: 🔒 [`PhyMamba-HSI-Research`](https://github.com/chidwipak/PhyMamba-HSI-Research) *(Private during review)*
-
-* **The PEFT Communication Law: Adapter Density Determines When Data Parallelism is Optimal**  
-  *Under Review at Journal of Parallel and Distributed Computing (**JPDC**)*  
-  * Formulated the PEFT Communication Law and built the Adaptive Parallelism Engine (APE) to select communication-optimal distributed training strategies across 3B–34B parameter models.  
-  * Repository: 🔒 [`Distributed-peft-research`](https://github.com/chidwipak/Distributed-peft-research) *(Private during review)*
-
-* **UniNet: Unified Representation Learning for Wireless Network Intelligence**  
-  *Under Review at Journal of Parallel and Distributed Computing (**JPDC**)*  
-  * Created a Mamba-based architecture for joint routing, traffic engineering, and congestion control validated via large-scale ns-3 simulations.  
-  * Repository: 🔒 [`UNINET`](https://github.com/chidwipak/UNINET) *(Private during review)*
-
-> *Note: Codebases for papers under peer review are maintained in private repositories to comply with double-blind guidelines and will be made public upon acceptance.*
+> *Note: These repositories will be made public once the respective papers are accepted and published.*
 
 ---
 
@@ -88,8 +118,7 @@ I am the first author of a paper accepted at **MICCAI 2026** (supported by a **M
   Integrated generative protein design pipelines (RFDiffusion & RFDiffusion All-Atom) with reusable APIs, unit tests, and benchmarking utilities.
 
 * **Data Science & AI Research Fellow @ IIT Madras** *(May 2026 – Jul 2026)*  
-  Engineered multi-GPU distributed PyTorch training pipelines (FSDP, mixed precision) for molecular binding affinity prediction using Graph Neural Networks and RDKit.  
-  Repository: 🔒 [`fragment-affinity-prediction-research`](https://github.com/chidwipak/fragment-affinity-prediction-research)
+  Engineered multi-GPU distributed PyTorch training pipelines (FSDP, mixed precision) for molecular binding affinity prediction using Graph Neural Networks and RDKit.
 
 * **Amazon ML Summer School 2026** *(Jul 2026 – Aug 2026)*  
   Selected for intensive training covering Large Language Models, Generative AI, Reinforcement Learning, and production ML infrastructure.
@@ -183,7 +212,7 @@ I am the first author of a paper accepted at **MICCAI 2026** (supported by a **M
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chidwipak&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
