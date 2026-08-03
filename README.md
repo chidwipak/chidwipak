@@ -1,115 +1,155 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=3366CC&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Chidwipak+Kuppani+%F0%9F%91%8B;AI+Researcher+%26+Deep+Learning+Specialist;Building+Trustworthy+Medical+AI+Systems+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+# Chidwipak Kuppani
+
+**Final-Year B.Tech Computer Science (Honors in AI/ML) @ IIIT Sri City**  
+*Building distributed ML systems, high-performance AI infrastructure, and scientific computing applications.*
+
+[Email](mailto:chidwipak@gmail.com) • [LinkedIn](https://www.linkedin.com/in/chidwipak-kuppani-a6406928a) • [GitHub](https://github.com/chidwipak) • [Certifications](https://drive.google.com/drive/folders/1rHLYGfxBvbA2qCjaoGVBeiThCvW1rsBI?usp=share_link) • [HuggingFace Demo](https://huggingface.co/spaces/chidwipak/infaiproject)
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CGPA-9.48%2F10.0-blue?style=for-the-badge&logo=academic" />
+  <img src="https://img.shields.io/badge/MICCAI%202026-Accepted-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GSoC%202026-DeepChem-orange?style=for-the-badge&logo=google" />
+  <img src="https://img.shields.io/badge/Contributor-Project%20HAMi-purple?style=for-the-badge&logo=kubernetes" />
+</p>
+
 </div>
 
 ---
 
-<div align="center">
-  
-  ### 🔬 AI Researcher | 🧠 Deep Learning Specialist | 🏥 Medical AI
-  
-  **B.Tech in CSE with Honors and AI/ML Specialization @ IIIT Sri City | CGPA: 9.54/10.0**
-  
-  [![Email](https://img.shields.io/badge/Email-chidwipak%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chidwipak@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chidwipak-kuppani-a6406928a)
+## About Me
 
-</div>
+I am a Computer Science undergraduate at IIIT Sri City specializing in Artificial Intelligence and Machine Learning. My research focuses on distributed learning, network control systems, multimodal vision-language models, and generative models for scientific applications. 
+
+I am the first author of a paper accepted at **MICCAI 2026** (supported by a **MICCAI Travel Award**) and have several manuscripts currently under review at IEEE TIT, IEEE TAC, IEEE TGRS, and JPDC. As a **Google Summer of Code 2026** contributor with **DeepChem**, I integrated generative protein design architectures into the core library, and I actively contribute to **Project HAMi** for Kubernetes GPU virtualization.
 
 ---
 
-## 🚀 Research Interests
+## 🏛️ Open Source Contributions
 
-My research focuses on **Trustworthy AI** and **Vision-Language Models** for high-stakes domains like healthcare. I am particularly interested in:
-
-*   **Medical VQA & Reasoning:** Investigating failure modes in multi-image reasoning.
-*   **Diffusion Models:** Applying stochastic processes for medical image reconstruction.
-*   **Efficient LLMs:** Domain adaptation and distributed training optimization.
-*   **Explainable AI:** Ensuring faithfulness in model reasoning.
+| Project | Organization / Ecosystem | Key Contributions |
+| :--- | :--- | :--- |
+| **[DeepChem](https://github.com/deepchem/deepchem)** | Google Summer of Code 2026 | Implemented **RFDiffusion** and **RFDiffusion All-Atom** generative protein design models into DeepChem's suite. |
+| **[Project HAMi](https://github.com/Project-HAMi/HAMi)** | Cloud Native Computing Foundation / K8s | Contributed to heterogeneous GPU resource sharing and virtualization for Kubernetes clusters. |
+| **[HAMi-core](https://github.com/Project-HAMi/HAMi-core)** | Project HAMi Ecosystem | In-container GPU resource control and transparent device virtualization. |
 
 ---
 
-## 💼 Featured Research & AI Projects
+## 🔬 Research & Publications
+
+### Accepted Papers
+
+* **Right Answer, Wrong Evidence: Revealing Visual Confabulation in Multi-Image Medical VLMs**  
+  *28th International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI 2026**), Strasbourg, France*  
+  🏆 **Recipient of the MICCAI 2026 Travel Award**  
+  * Introduced the **Evidence Attribution Score (EAS)** to evaluate whether multi-image medical vision-language models rely on true visual grounding rather than confabulating correct answers.  
+  * Evaluated 8 medical VLMs across multi-image diagnostic benchmarks.  
+  * Codebase: [`eas-medical-vlm`](https://github.com/chidwipak/eas-medical-vlm)
+
+---
+
+### Manuscripts Under Review
+
+* **The Exact Error Exponent of Rate-Constrained Decentralized Detection over Time-Varying Networks**  
+  *Under Review at IEEE Transactions on Information Theory (**IEEE TIT**)*  
+  * Derived matching converse and achievability bounds for hypothesis testing against independence under graph min-cut constraints.  
+  * Repository: 🔒 [`rate-constrained-decentralized-detection`](https://github.com/chidwipak/rate-constrained-decentralized-detection) *(Private during review)*
+
+* **Restoration and Reliability: The Exact Moment Threshold for Controlling Expansive Systems over Erasure Channels**  
+  *Under Review at IEEE Transactions on Automatic Control (**IEEE TAC**)*  
+  * Derived the exact moment-stability threshold $\gamma(m) < 1$ for nonlinear expansive maps over erasure channels using a Universal Zooming Quantizer.  
+  * Repository: 🔒 [`restoration-anytime-limit-lossy-channels`](https://github.com/chidwipak/restoration-anytime-limit-lossy-channels) *(Private during review)*
+
+* **PhyMamba: Physics-Guided Vision Mamba for Lunar Hyperspectral Super-Resolution**  
+  *Under Review at IEEE Transactions on Geoscience and Remote Sensing (**IEEE TGRS**)*  
+  * Developed a physics-guided Vision Mamba model with ADMM unrolling for lunar hyperspectral image super-resolution on Chandrayaan-2 datasets.  
+  * Repository: 🔒 [`PhyMamba-HSI-Research`](https://github.com/chidwipak/PhyMamba-HSI-Research) *(Private during review)*
+
+* **The PEFT Communication Law: Adapter Density Determines When Data Parallelism is Optimal**  
+  *Under Review at Journal of Parallel and Distributed Computing (**JPDC**)*  
+  * Formulated the PEFT Communication Law and built the Adaptive Parallelism Engine (APE) to select communication-optimal distributed training strategies across 3B–34B parameter models.  
+  * Repository: 🔒 [`Distributed-peft-research`](https://github.com/chidwipak/Distributed-peft-research) *(Private during review)*
+
+* **UniNet: Unified Representation Learning for Wireless Network Intelligence**  
+  *Under Review at Journal of Parallel and Distributed Computing (**JPDC**)*  
+  * Created a Mamba-based architecture for joint routing, traffic engineering, and congestion control validated via large-scale ns-3 simulations.  
+  * Repository: 🔒 [`UNINET`](https://github.com/chidwipak/UNINET) *(Private during review)*
+
+> *Note: Codebases for papers under peer review are maintained in private repositories to comply with double-blind guidelines and will be made public upon acceptance.*
+
+---
+
+## 💼 Experience & Research Fellowships
+
+* **Google Summer of Code Contributor @ DeepChem** *(May 2026 – Aug 2026)*  
+  Integrated generative protein design pipelines (RFDiffusion & RFDiffusion All-Atom) with reusable APIs, unit tests, and benchmarking utilities.
+
+* **Data Science & AI Research Fellow @ IIT Madras** *(May 2026 – Jul 2026)*  
+  Engineered multi-GPU distributed PyTorch training pipelines (FSDP, mixed precision) for molecular binding affinity prediction using Graph Neural Networks and RDKit.  
+  Repository: 🔒 [`fragment-affinity-prediction-research`](https://github.com/chidwipak/fragment-affinity-prediction-research)
+
+* **Amazon ML Summer School 2026** *(Jul 2026 – Aug 2026)*  
+  Selected for intensive training covering Large Language Models, Generative AI, Reinforcement Learning, and production ML infrastructure.
+
+* **AI Intern @ Infosys Springboard** *(Aug 2025 – Oct 2025)*  
+  Developed **AI TraceFinder**, a forensic document analysis system achieving **93.75% Scanner ID accuracy** and **89.86% Tampered Document Detection**.  
+  Repository: [`AI_TraceFinder-`](https://github.com/chidwipak/AI_TraceFinder-) • [🤗 Interactive Demo](https://huggingface.co/spaces/chidwipak/infaiproject)
+
+---
+
+## 🛠️ Featured AI & Engineering Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">👁️ OcularAI</h3>
-      <div align="center">
-        <a href="https://github.com/chidwipak/OcularAI">
-          <img src="https://img.shields.io/badge/PyTorch_Lightning-Vision_Transformers-blueviolet?style=for-the-badge" />
-        </a>
-      </div>
+      <h3 align="center">🕵️ AI TraceFinder</h3>
+      <p>Forensic document analysis and scanner identification using stacked ensemble models over 153 extracted forensic features.</p>
       <p align="center">
-        <strong>Multi-Label Retinal Disease Classification</strong><br>
-        Benchmarked Swin, DeiT, ViT vs ResNet-50 on ODIR-5K. Achieved <strong>81.1% F1 Macro</strong> using Swin Transformer. Features attention maps for interpretability.
+        <b>93.75% Scanner ID</b> • <b>89.86% Tampering Detection</b><br>
+        <a href="https://github.com/chidwipak/AI_TraceFinder-">Repository</a> • <a href="https://huggingface.co/spaces/chidwipak/infaiproject">Live Demo 🤗</a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🩻 Xray-Denoising-using-DDPM</h3>
-      <div align="center">
-        <a href="https://github.com/chidwipak/Xray-Denoising-using-DDPM">
-          <img src="https://img.shields.io/badge/PyTorch-Diffusion_Models-orange?style=for-the-badge" />
-        </a>
-      </div>
+      <h3 align="center">🏥 SAHAYAK</h3>
+      <p>Multilingual healthcare assistant providing AI medication safety analysis and patient assistance.</p>
       <p align="center">
-        <strong>Medical Image Enhancement</strong><br>
-        Implemented DDPM from scratch using stochastic forward diffusion and learned reverse denoising to restore diagnostic quality to chest X-rays.
+        🏆 <b>Winner - IdeaVerse National Hackathon</b><br>
+        <a href="https://github.com/chidwipak/SAHAYAK">Repository</a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3 align="center">☕ CafeMind</h3>
-      <div align="center">
-        <a href="https://github.com/chidwipak/CafeMind">
-          <img src="https://img.shields.io/badge/LangChain-Multi_Agent_RAG-green?style=for-the-badge" />
-        </a>
-      </div>
+      <p>Multi-agent coffee shop assistant integrating LLM reasoning, RAG knowledge retrieval, and microservices.</p>
       <p align="center">
-        <strong>Multi-Agent AI Assistant</strong><br>
-        Sophisticated 5-agent orchestration using Gemini, Pinecone, and FastAPI. Features intent routing, RAG, and ML-based product recommendations.
+        <a href="https://github.com/chidwipak/CafeMind">Repository</a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🚢 MaritimeLM</h3>
-      <div align="center">
-        <a href="https://github.com/chidwipak/MaritimeLM-Ship-Equipment-Assistant">
-          <img src="https://img.shields.io/badge/LLM-LoRA_Fine_Tuning-yellow?style=for-the-badge" />
-        </a>
-      </div>
+      <h3 align="center">👁️ OcularAI</h3>
+      <p>Multi-label retinal disease classification leveraging Vision Transformer architectures.</p>
       <p align="center">
-        <strong>Domain-Adapted Language Model</strong><br>
-        Fine-tuned Mistral-7B using Low-Rank Adaptation (LoRA) for ship equipment intelligence technical Q&A.
+        <a href="https://github.com/chidwipak/OcularAI">Repository</a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🌐 WebInsight-AI</h3>
-      <div align="center">
-        <a href="https://github.com/chidwipak/WebInsight-AI">
-          <img src="https://img.shields.io/badge/RAG-Gemini_&_FAISS-informational?style=for-the-badge" />
-        </a>
-      </div>
+      <h3 align="center">🩻 X-Ray Denoising via DDPM</h3>
+      <p>Medical image restoration and noise reduction using Denoising Diffusion Probabilistic Models.</p>
       <p align="center">
-        <strong>Universal Web Content Chatbot</strong><br>
-        RAG-powered tool enabling intelligent Q&A with any website content using Google Gemini & FAISS vector search.
+        <a href="https://github.com/chidwipak/Xray-Denoising-using-DDPM">Repository</a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">📈 ImprovedGWnet</h3>
-      <div align="center">
-        <a href="https://github.com/chidwipak/ImprovedGWnet">
-          <img src="https://img.shields.io/badge/GNN-Spatio_Temporal-ff69b4?style=for-the-badge" />
-        </a>
-      </div>
+      <h3 align="center">📐 PromptSeg-Lite</h3>
+      <p>Text-conditioned binary segmentation model for drywall construction quality analysis.</p>
       <p align="center">
-        <strong>Graph WaveNet Implementation</strong><br>
-        Enhanced Graph WaveNet implementation for advanced spatiotemporal data modeling and prediction.
+        <a href="https://github.com/chidwipak/PromptSeg-Lite">Repository</a>
       </p>
     </td>
   </tr>
@@ -117,230 +157,68 @@ My research focuses on **Trustworthy AI** and **Vision-Language Models** for hig
 
 ---
 
-## 🏢 Professional Experience
+## ⚡ Technical Arsenal
 
-<h3 align="center">🔎 AI TraceFinder (Infosys Springboard Internship)</h3>
+```
+┌───────────────────────────┬─────────────────────────────────────────────────────────────────┐
+│ Category                  │ Technologies                                                    │
+├───────────────────────────┼─────────────────────────────────────────────────────────────────┤
+│ Core ML & AI              │ PyTorch, Hugging Face, scikit-learn, OpenCV, RDKit, NetworkX    │
+│ Distributed & Systems     │ CUDA, PyTorch DDP, FSDP, DeepSpeed ZeRO, SLURM, Docker, K8s    │
+│ Programming Languages     │ Python, C/C++, Go, Java, SQL, JavaScript, TypeScript            │
+│ Cloud & Utilities         │ Linux, Git, CMake, Neo4j, FastAPI, ns-3                         │
+└───────────────────────────┴─────────────────────────────────────────────────────────────────┘
+```
 
-<div align="center">
-  <a href="https://github.com/chidwipak/AI_TraceFinder-">
-    <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://huggingface.co/spaces/chidwipak/infaiproject">
-    <img src="https://img.shields.io/badge/Hugging_Face-Live_Demo-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  </a>
-</div>
-<br>
 <p align="center">
-**Forensic Document Analysis System:** Built a scanner identification system using 153 PRNU and frequency features (**93.75% accuracy**) and tampered-document detection (**89.86% accuracy**). Deployed on Hugging Face Spaces.
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </p>
 
 ---
 
-## 🎓 Academic Projects
+## 📊 GitHub Activity
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4 align="center">🗣️ NLP Course Project</h4>
-      <div align="center">
-         <a href="https://github.com/chidwipak/Tenglish-CodeMix-Predictor"><strong>Tenglish-CodeMix-Predictor</strong></a>
-      </div>
-      <p align="center">
-        NLP model for analyzing and predicting Telugu-English code-mixed text data.
-      </p>
-    </td>
-    <td width="50%">
-      <h4 align="center">🎲 Applied Stochastic Models</h4>
-      <div align="center">
-         <a href="https://github.com/chidwipak/ED-ITROS"><strong>ED-ITROS</strong></a>
-      </div>
-      <p align="center">
-        AI-Powered Healthcare Optimization using Stochastic Modeling, ML, DL, and Reinforcement Learning.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4 align="center">📊 IDA (Intro to Data Analytics)</h4>
-      <div align="center">
-         <a href="https://github.com/chidwipak/CVD-ML-Classifier-Benchmark"><strong>CVD-ML-Classifier-Benchmark</strong></a>
-      </div>
-      <p align="center">
-        Comprehensive comparison of 25 Machine Learning models for cardiovascular disease prediction.
-      </p>
-    </td>
-    <td width="50%">
-      <h4 align="center">🤖 Machine Learning Course</h4>
-      <div align="center">
-         <a href="https://github.com/chidwipak/CardioML-FromScratch"><strong>CardioML-FromScratch</strong></a>
-      </div>
-      <p align="center">
-        Complete cardiovascular prediction system with 8 classifiers built <strong>entirely from scratch</strong> using NumPy.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4 align="center">🔐 Cyber Security</h4>
-      <div align="center">
-         <a href="https://github.com/chidwipak/LynisShield-CrossPlatform-VulnerabilityScanner"><strong>LynisShield</strong></a>
-      </div>
-      <p align="center">
-        Cross-platform vulnerability scanner for system security auditing.
-      </p>
-    </td>
-    <td width="50%">
-      <h4 align="center">💻 Full Stack Web Dev</h4>
-      <div align="center">
-         <a href="https://github.com/chidwipak/skilllink"><strong>SkillLink</strong></a> & <a href="https://github.com/chidwipak/SkillLink_React"><strong>React</strong></a>
-      </div>
-      <p align="center">
-        Enterprise-grade home services marketplace platform built with MERN stack.
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chidwipak&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chidwipak&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
 ---
 
-## 🛠️ Technical Arsenal
+## 📫 Contact & Links
+
+<p align="center">
+  <a href="mailto:chidwipak@gmail.com"><img src="https://img.shields.io/badge/Email-chidwipak%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/chidwipak-kuppani-a6406928a"><img src="https://img.shields.io/badge/LinkedIn-Chidwipak_Kuppani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/chidwipak"><img src="https://img.shields.io/badge/GitHub-chidwipak-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://drive.google.com/drive/folders/1rHLYGfxBvbA2qCjaoGVBeiThCvW1rsBI?usp=share_link"><img src="https://img.shields.io/badge/Certifications-Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+</p>
+
+---
+
+<details>
+<summary>📂 <b>Early Foundational & Web Engineering Projects (Archived / Coursework)</b></summary>
+
+<br />
+
+The following repositories represent early coursework and foundational full-stack applications developed prior to specializing in distributed AI systems and scientific ML:
+
+* [`SkillLink`](https://github.com/chidwipak/SkillLink) / [`SkillLink_React`](https://github.com/chidwipak/SkillLink_React): Full-stack home services and supplies platform.
+* [`housekeeping-management-system`](https://github.com/chidwipak/housekeeping-management-system): Web application for managing housekeeping operations.
+* [`language-management-system`](https://github.com/chidwipak/language-management-system): Database application for language learning tracking.
+* [`newsletter-management-system`](https://github.com/chidwipak/newsletter-management-system): Full-stack web application for managing digital newsletters.
+* [`Student-profile-management-system`](https://github.com/chidwipak/Student-profile-management-system): Full-stack management app for student profiles.
+* [`Programmer-survey`](https://github.com/chidwipak/Programmer-survey): Professional programmer survey platform.
+
+</details>
 
 <div align="center">
-
-### Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-### Deep Learning & AI
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=for-the-badge&logo=pytorch-lightning&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vision_Transformers-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Diffusion_Models-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-
-### Data Science & Analytics
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-005D90?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C566A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-
-### Web & Backend
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white"/>
-
-### Tools, Cloud & Databases
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
-<img src="https://img.shields.io/badge/FAISS-00ADD8?style=for-the-badge&logo=meta&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-
-</div>
-
----
-
-## 📜 Publications & Research Works
-
-*   **[In Preparation]** "Systematic Failure Analysis of Multi-Image Medical VQA: Understanding Vision-Language Model Reasoning Limitations" (2026)
-*   **[Research]** "Cross-Image Evidence Attribution in Vision-Language Models" (Oct 2025 - Present)
-*   **[Research]** "Distributed Training Optimization for Resource-Constrained Environments" (Nov 2025 - Present)
-
----
-
-## 🏅 Certifications
-
-I have completed **35+ Professional Certifications** including **Oracle Cloud GenAI Professional**, **Data Analytics**, and **AI Foundations**.
-
-[![View All Certifications](https://img.shields.io/badge/View_Full_Portfolio_on_Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1rHLYGfxBvbA2qCjaoGVBeiThCvW1rsBI?usp=share_link)
-
----
-
-## ⚡ Web Development Archive (Early Projects)
-
-<table>
-  <tr>
-    <td width="50%">
-      <h4 align="center">🏠 Housekeeping Management</h4>
-      <div align="center">
-         <a href="https://github.com/chidwipak/housekeeping-management-system"><strong>Repository</strong></a>
-      </div>
-      <p align="center">
-        Facility management dashboard built with MERN Stack and MySQL.
-      </p>
-    </td>
-    <td width="50%">
-      <h4 align="center">📧 Newsletter System</h4>
-      <div align="center">
-         <a href="https://github.com/chidwipak/newsletter-management-system"><strong>Repository</strong></a>
-      </div>
-      <p align="center">
-        Scalable email campaign platform for digital newsletters.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4 align="center">🌐 Language Management</h4>
-      <div align="center">
-         <a href="https://github.com/chidwipak/language-management-system"><strong>Repository</strong></a>
-      </div>
-      <p align="center">
-        Database management application for world languages registry.
-      </p>
-    </td>
-    <td width="50%">
-      <h4 align="center">📊 Programmer Survey</h4>
-      <div align="center">
-         <a href="https://github.com/chidwipak/programmer-survey"><strong>Repository</strong></a>
-      </div>
-      <p align="center">
-        Interactive data collection platform for developer surveys.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4 align="center">👥 Student Profile Management</h4>
-      <div align="center">
-         <a href="https://github.com/chidwipak/student-profile-management-system"><strong>Repository</strong></a>
-      </div>
-      <p align="center">
-        Simple full stack academic record management system.
-      </p>
-    </td>
-    <td width="50%">
-      <h4 align="center">🏫 Adobe Rounds</h4>
-      <div align="center">
-         <a href="#"><strong>Competitive Coding</strong></a>
-      </div>
-      <p align="center">
-         Solutions for Adobe coding rounds (Round 1a/1b).
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Let's+Collaborate+on+Trustworthy+AI&fontAlign=50&fontSize=25&textBg=true&desc=Reach%20out%20via%20Email%20or%20LinkedIn&descAlign=50&descAlignY=70" width="100%" />
+  <sub>© 2026 Chidwipak Kuppani</sub>
 </div>
